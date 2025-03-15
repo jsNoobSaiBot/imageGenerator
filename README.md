@@ -2,7 +2,7 @@
 
 Vanilla JS | mobile responsive | unsplash API | css animations
 
-Try from here - https://jsnoobsaibot.github.io/imageGenerator/
+Try from here - https://iamfahadkhan.github.io/imageGenerator/
 
 
 
